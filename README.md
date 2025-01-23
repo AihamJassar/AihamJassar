@@ -57,7 +57,7 @@ Explore all my projects in the [Repositories](https://github.com/AihamJassar?tab
 ## 🌍 Connect With Me  
 
 <p>
-  <a href="https://www.linkedin.com/in/AihamJassar">
+  <a href="[https://www.linkedin.com/in/AihamJassar](https://www.linkedin.com/in/aiham-jassar-1bb532328?trk=contact-info)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/AihamJassar">
