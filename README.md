@@ -57,6 +57,11 @@ Explore all my projects in the [Repositories](https://github.com/AihamJassar?tab
 ## 🌍 Connect With Me  
 
 <p>
+
+  <a href="https://t.me/Aiham_Jassar">
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/aiham-jassar-1bb532328">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
