@@ -52,12 +52,10 @@ Explore all my projects in the [Repositories](https://github.com/AihamJassar?tab
 ![Aiham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AihamJassar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AihamJassar&layout=compact&theme=radical)  
 
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AihamJassar&&style=flat-square" align="center" />
-</div>  
----
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AihamJassar&theme=gruvbox&hide_border=true" alt="AihamJassar" />
+</p> 
 
 ## 🌍 Connect With Me  
 
