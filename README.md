@@ -54,7 +54,7 @@ Explore all my projects in the [Repositories](https://github.com/AihamJassar?tab
 
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AihamJassar&theme=gruvbox&hide_border=true" alt="AihamJassar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AihamJassar&theme=radical&hide_border=true" alt="AihamJassar" />
 </p> 
 
 ## 🌍 Connect With Me  
