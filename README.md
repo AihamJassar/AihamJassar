@@ -49,9 +49,6 @@ Explore all my projects in the [Repositories](https://github.com/AihamJassar?tab
 
 ## 📈 GitHub Stats  
 
-![Aiham's GitHub stats]()  
-![Top Languages]()  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AihamJassar&show_icons=true&theme=radical" alt="Aiham's GitHub stats" />
 </p>
