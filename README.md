@@ -49,13 +49,18 @@ Explore all my projects in the [Repositories](https://github.com/AihamJassar?tab
 
 ## 📈 GitHub Stats  
 
-![Aiham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AihamJassar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AihamJassar&layout=compact&theme=radical)  
+![Aiham's GitHub stats]()  
+![Top Languages]()  
 
-</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AihamJassar&theme=radical&hide_border=false" alt="AihamJassar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AihamJassar&show_icons=true&theme=radical&hide_border=false" alt="AihamJassar" width="500"/>
 </p> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AihamJassar&layout=compact&theme=radical&hide_border=false" alt="AihamJassar" width="500"/>
+</p> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AihamJassar&theme=radical&hide_border=false" alt="AihamJassar" width="500"/>
+</p>
 
 ## 🌍 Connect With Me  
 
